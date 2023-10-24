@@ -4,13 +4,13 @@ CREATE TABLE users (
     name_user VARCHAR(255),
     email_user VARCHAR(255),
     pass_user VARCHAR(255),
-    created_at TIMESTAMP
+    created_at DATETIME
 );
 
 -- Criação da tabela 'trucks'
 CREATE TABLE trucks (
-    id_truck INT PRIMARY KEY AUTO_INCREMENT,
-    created_at TIMESTAMP,
+    id_truck AUTO_INCREMENT INT PRIMARY KEY,
+    created_at DATETIME,
     fk_user INT,
     FOREIGN KEY (fk_user) REFERENCES users(id_user)
 );
@@ -18,14 +18,14 @@ CREATE TABLE trucks (
 -- Criação da tabela 'reads'
 CREATE TABLE reads (
     id_read INT PRIMARY KEY AUTO_INCREMENT,
-    temperature DOUBLE,
-    umidity DOUBLE,
-    vibration DOUBLE,
-    noise DOUBLE,
-    proximity DOUBLE,
-    weight DOUBLE,
-    latitude DOUBLE,
-    created_at TIMESTAMP,
+    temperature FLOAT,
+    umidity FLOAT,
+    vibration FLOAT,
+    noise FLOAT,
+    proximity FLOAT,
+    weight FLOAT,
+    latitude FLOAT,
+    created_at DATETIME,
     fk_truck INT,
     fk_route INT,
     FOREIGN KEY (fk_route) REFERENCES routes(id_route)
@@ -33,7 +33,7 @@ CREATE TABLE reads (
 
 -- Criação da tabela 'routes'
 CREATE TABLE routes (
-    id_route INT PRIMARY KEY AUTO_INCREMENT,
+    id_route INT AUTO_INCREMENT PRIMARY KEY,
     name_route VARCHAR(255),
     lat_inicial DECIMAL(10, 8),
     long_inicial DECIMAL(11, 8),
