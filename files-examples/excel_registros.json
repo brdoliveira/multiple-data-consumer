@@ -1,0 +1,602 @@
+[
+  {
+    "temperatura": 23,
+    "umidade": 72.27,
+    "vibracao": 103.8672,
+    "ruido": 84.7512,
+    "proximidade": 39,
+    "peso": 30,
+    "latitude": -83.2846,
+    "longitude": 69.815
+  },
+  {
+    "temperatura": 27,
+    "umidade": 62.32,
+    "vibracao": 18.8126,
+    "ruido": 36.9695,
+    "proximidade": 52,
+    "peso": 30,
+    "latitude": -83.2877,
+    "longitude": 69.817
+  },
+  {
+    "temperatura": 23,
+    "umidade": 73.99,
+    "vibracao": 78.4629,
+    "ruido": 48.1821,
+    "proximidade": 77,
+    "peso": 30,
+    "latitude": -83.2861,
+    "longitude": 69.8123
+  },
+  {
+    "temperatura": 24,
+    "umidade": 65.67,
+    "vibracao": 169.1518,
+    "ruido": 60.3956,
+    "proximidade": 61,
+    "peso": 30,
+    "latitude": -83.2858,
+    "longitude": 69.7981
+  },
+  {
+    "temperatura": 27,
+    "umidade": 50.54,
+    "vibracao": 159.774,
+    "ruido": 88.1785,
+    "proximidade": 14,
+    "peso": 30,
+    "latitude": -83.2729,
+    "longitude": 69.8035
+  },
+  {
+    "temperatura": 30,
+    "umidade": 73.53,
+    "vibracao": 77.5952,
+    "ruido": 50.4047,
+    "proximidade": 66,
+    "peso": 30,
+    "latitude": -83.2875,
+    "longitude": 69.8161
+  },
+  {
+    "temperatura": 23,
+    "umidade": 58.34,
+    "vibracao": 132.1374,
+    "ruido": 72.2244,
+    "proximidade": 18,
+    "peso": 30,
+    "latitude": -83.276,
+    "longitude": 69.8059
+  },
+  {
+    "temperatura": 22,
+    "umidade": 60.1,
+    "vibracao": 171.2696,
+    "ruido": 69.3001,
+    "proximidade": 2,
+    "peso": 30,
+    "latitude": -83.2867,
+    "longitude": 69.8041
+  },
+  {
+    "temperatura": 27,
+    "umidade": 59.38,
+    "vibracao": 21.4097,
+    "ruido": 85.9082,
+    "proximidade": 100,
+    "peso": 30,
+    "latitude": -83.2752,
+    "longitude": 69.807
+  },
+  {
+    "temperatura": 27,
+    "umidade": 64.32,
+    "vibracao": 32.9731,
+    "ruido": 58.9348,
+    "proximidade": 45,
+    "peso": 30,
+    "latitude": -83.2748,
+    "longitude": 69.8174
+  },
+  {
+    "temperatura": 23,
+    "umidade": 58.46,
+    "vibracao": 194.3595,
+    "ruido": 52.7679,
+    "proximidade": 72,
+    "peso": 30,
+    "latitude": -83.2692,
+    "longitude": 69.7994
+  },
+  {
+    "temperatura": 27,
+    "umidade": 76.21,
+    "vibracao": 96.2359,
+    "ruido": 46.3463,
+    "proximidade": 78,
+    "peso": 30,
+    "latitude": -83.2752,
+    "longitude": 69.8123
+  },
+  {
+    "temperatura": 22,
+    "umidade": 53.62,
+    "vibracao": 43.7598,
+    "ruido": 52.3911,
+    "proximidade": 70,
+    "peso": 30,
+    "latitude": -83.2822,
+    "longitude": 69.7986
+  },
+  {
+    "temperatura": 26,
+    "umidade": 60.39,
+    "vibracao": 218.003,
+    "ruido": 88.0278,
+    "proximidade": 78,
+    "peso": 30,
+    "latitude": -83.2797,
+    "longitude": 69.8123
+  },
+  {
+    "temperatura": 30,
+    "umidade": 79.17,
+    "vibracao": 112.3315,
+    "ruido": 32.0333,
+    "proximidade": 6,
+    "peso": 30,
+    "latitude": -83.2744,
+    "longitude": 69.8019
+  },
+  {
+    "temperatura": 25,
+    "umidade": 59.73,
+    "vibracao": 42.5671,
+    "ruido": 86.3933,
+    "proximidade": 71,
+    "peso": 30,
+    "latitude": -83.275,
+    "longitude": 69.8089
+  },
+  {
+    "temperatura": 24,
+    "umidade": 78.45,
+    "vibracao": 2.9818,
+    "ruido": 43.5386,
+    "proximidade": 75,
+    "peso": 30,
+    "latitude": -83.276,
+    "longitude": 69.8002
+  },
+  {
+    "temperatura": 23,
+    "umidade": 62.94,
+    "vibracao": 129.3674,
+    "ruido": 78.0392,
+    "proximidade": 61,
+    "peso": 30,
+    "latitude": -83.2829,
+    "longitude": 69.7979
+  },
+  {
+    "temperatura": 28,
+    "umidade": 54.7,
+    "vibracao": 142.8235,
+    "ruido": 86.3605,
+    "proximidade": 26,
+    "peso": 30,
+    "latitude": -83.2867,
+    "longitude": 69.7981
+  },
+  {
+    "temperatura": 23,
+    "umidade": 63.41,
+    "vibracao": 139.409,
+    "ruido": 69.4396,
+    "proximidade": 28,
+    "peso": 30,
+    "latitude": -83.2868,
+    "longitude": 69.8157
+  },
+  {
+    "temperatura": 29,
+    "umidade": 63.42,
+    "vibracao": 137.3914,
+    "ruido": 36.8827,
+    "proximidade": 69,
+    "peso": 30,
+    "latitude": -83.2737,
+    "longitude": 69.8018
+  },
+  {
+    "temperatura": 30,
+    "umidade": 72.44,
+    "vibracao": 196.6373,
+    "ruido": 79.7727,
+    "proximidade": 14,
+    "peso": 30,
+    "latitude": -83.2771,
+    "longitude": 69.7987
+  },
+  {
+    "temperatura": 30,
+    "umidade": 78.48,
+    "vibracao": 8.6637,
+    "ruido": 38.5504,
+    "proximidade": 8,
+    "peso": 30,
+    "latitude": -83.2722,
+    "longitude": 69.8132
+  },
+  {
+    "temperatura": 25,
+    "umidade": 53.75,
+    "vibracao": 8.5188,
+    "ruido": 58.3292,
+    "proximidade": 23,
+    "peso": 30,
+    "latitude": -83.284,
+    "longitude": 69.8138
+  },
+  {
+    "temperatura": 28,
+    "umidade": 77.5,
+    "vibracao": 65.6595,
+    "ruido": 60.4993,
+    "proximidade": 66,
+    "peso": 30,
+    "latitude": -83.2818,
+    "longitude": 69.8118
+  },
+  {
+    "temperatura": 29,
+    "umidade": 79.73,
+    "vibracao": 57.6451,
+    "ruido": 64.1111,
+    "proximidade": 22,
+    "peso": 30,
+    "latitude": -83.2813,
+    "longitude": 69.8109
+  },
+  {
+    "temperatura": 20,
+    "umidade": 61.32,
+    "vibracao": 13.2946,
+    "ruido": 57.3512,
+    "proximidade": 54,
+    "peso": 30,
+    "latitude": -83.2833,
+    "longitude": 69.8113
+  },
+  {
+    "temperatura": 26,
+    "umidade": 75.68,
+    "vibracao": 114.7196,
+    "ruido": 84.4763,
+    "proximidade": 39,
+    "peso": 30,
+    "latitude": -83.2842,
+    "longitude": 69.8153
+  },
+  {
+    "temperatura": 28,
+    "umidade": 73.74,
+    "vibracao": 79.6998,
+    "ruido": 78.8288,
+    "proximidade": 14,
+    "peso": 30,
+    "latitude": -83.2792,
+    "longitude": 69.8074
+  },
+  {
+    "temperatura": 29,
+    "umidade": 79.1,
+    "vibracao": 41.0409,
+    "ruido": 50.155,
+    "proximidade": 69,
+    "peso": 30,
+    "latitude": -83.2713,
+    "longitude": 69.8113
+  },
+  {
+    "temperatura": 28,
+    "umidade": 75.66,
+    "vibracao": 188.141,
+    "ruido": 33.5197,
+    "proximidade": 44,
+    "peso": 30,
+    "latitude": -83.2695,
+    "longitude": 69.8043
+  },
+  {
+    "temperatura": 26,
+    "umidade": 52.15,
+    "vibracao": 86.0852,
+    "ruido": 77.0162,
+    "proximidade": 53,
+    "peso": 30,
+    "latitude": -83.2871,
+    "longitude": 69.8145
+  },
+  {
+    "temperatura": 23,
+    "umidade": 60.49,
+    "vibracao": 101.2877,
+    "ruido": 45.0947,
+    "proximidade": 36,
+    "peso": 30,
+    "latitude": -83.2695,
+    "longitude": 69.8025
+  },
+  {
+    "temperatura": 21,
+    "umidade": 67.7,
+    "vibracao": 142.4155,
+    "ruido": 78.1114,
+    "proximidade": 36,
+    "peso": 30,
+    "latitude": -83.2799,
+    "longitude": 69.8021
+  },
+  {
+    "temperatura": 27,
+    "umidade": 66.6,
+    "vibracao": 13.6015,
+    "ruido": 87.8684,
+    "proximidade": 20,
+    "peso": 30,
+    "latitude": -83.2753,
+    "longitude": 69.8048
+  },
+  {
+    "temperatura": 28,
+    "umidade": 58.51,
+    "vibracao": 97.3876,
+    "ruido": 65.6614,
+    "proximidade": 74,
+    "peso": 30,
+    "latitude": -83.2811,
+    "longitude": 69.8065
+  },
+  {
+    "temperatura": 30,
+    "umidade": 53.45,
+    "vibracao": 164.9594,
+    "ruido": 46.8282,
+    "proximidade": 16,
+    "peso": 30,
+    "latitude": -83.2722,
+    "longitude": 69.8069
+  },
+  {
+    "temperatura": 27,
+    "umidade": 55.15,
+    "vibracao": 145.3489,
+    "ruido": 55.4622,
+    "proximidade": 46,
+    "peso": 30,
+    "latitude": -83.2806,
+    "longitude": 69.8013
+  },
+  {
+    "temperatura": 30,
+    "umidade": 56.38,
+    "vibracao": 39.5146,
+    "ruido": 40.0182,
+    "proximidade": 6,
+    "peso": 30,
+    "latitude": -83.2843,
+    "longitude": 69.8121
+  },
+  {
+    "temperatura": 22,
+    "umidade": 54.4,
+    "vibracao": 116.1327,
+    "ruido": 70.8739,
+    "proximidade": 75,
+    "peso": 30,
+    "latitude": -83.2809,
+    "longitude": 69.8136
+  },
+  {
+    "temperatura": 29,
+    "umidade": 68.46,
+    "vibracao": 101.165,
+    "ruido": 78.964,
+    "proximidade": 41,
+    "peso": 30,
+    "latitude": -83.2875,
+    "longitude": 69.817
+  },
+  {
+    "temperatura": 24,
+    "umidade": 65.93,
+    "vibracao": 26.2952,
+    "ruido": 63.6898,
+    "proximidade": 27,
+    "peso": 30,
+    "latitude": -83.2727,
+    "longitude": 69.802
+  },
+  {
+    "temperatura": 23,
+    "umidade": 51.15,
+    "vibracao": 193.2489,
+    "ruido": 83.7299,
+    "proximidade": 67,
+    "peso": 30,
+    "latitude": -83.274,
+    "longitude": 69.8136
+  },
+  {
+    "temperatura": 28,
+    "umidade": 59.67,
+    "vibracao": 102.8328,
+    "ruido": 84.6359,
+    "proximidade": 78,
+    "peso": 30,
+    "latitude": -83.2864,
+    "longitude": 69.81
+  },
+  {
+    "temperatura": 28,
+    "umidade": 63.47,
+    "vibracao": 146.6698,
+    "ruido": 70.5581,
+    "proximidade": 95,
+    "peso": 30,
+    "latitude": -83.2723,
+    "longitude": 69.8169
+  },
+  {
+    "temperatura": 29,
+    "umidade": 63.59,
+    "vibracao": 66.8049,
+    "ruido": 52.6459,
+    "proximidade": 80,
+    "peso": 30,
+    "latitude": -83.2859,
+    "longitude": 69.8068
+  },
+  {
+    "temperatura": 21,
+    "umidade": 65.67,
+    "vibracao": 33.7901,
+    "ruido": 89.3728,
+    "proximidade": 18,
+    "peso": 30,
+    "latitude": -83.2763,
+    "longitude": 69.7982
+  },
+  {
+    "temperatura": 23,
+    "umidade": 60.98,
+    "vibracao": 118.0868,
+    "ruido": 37.7722,
+    "proximidade": 70,
+    "peso": 30,
+    "latitude": -83.2766,
+    "longitude": 69.8063
+  },
+  {
+    "temperatura": 24,
+    "umidade": 57.25,
+    "vibracao": 13.2408,
+    "ruido": 45.4372,
+    "proximidade": 7,
+    "peso": 30,
+    "latitude": -83.2807,
+    "longitude": 69.8126
+  },
+  {
+    "temperatura": 24,
+    "umidade": 66.72,
+    "vibracao": 174.0916,
+    "ruido": 80.6468,
+    "proximidade": 99,
+    "peso": 30,
+    "latitude": -83.2803,
+    "longitude": 69.7991
+  },
+  {
+    "temperatura": 27,
+    "umidade": 54.55,
+    "vibracao": 23.2292,
+    "ruido": 53.3329,
+    "proximidade": 82,
+    "peso": 30,
+    "latitude": -83.2691,
+    "longitude": 69.8022
+  },
+  {
+    "temperatura": 21,
+    "umidade": 51.1,
+    "vibracao": 24.1171,
+    "ruido": 75.1116,
+    "proximidade": 25,
+    "peso": 30,
+    "latitude": -83.2876,
+    "longitude": 69.8168
+  },
+  {
+    "temperatura": 25,
+    "umidade": 64.13,
+    "vibracao": 139.9249,
+    "ruido": 52.6091,
+    "proximidade": 50,
+    "peso": 30,
+    "latitude": -83.2717,
+    "longitude": 69.8083
+  },
+  {
+    "temperatura": 25,
+    "umidade": 64.01,
+    "vibracao": 38.4814,
+    "ruido": 58.1258,
+    "proximidade": 39,
+    "peso": 30,
+    "latitude": -83.2879,
+    "longitude": 69.8042
+  },
+  {
+    "temperatura": 26,
+    "umidade": 50.56,
+    "vibracao": 34.8104,
+    "ruido": 89.5605,
+    "proximidade": 1,
+    "peso": 30,
+    "latitude": -83.2854,
+    "longitude": 69.7998
+  },
+  {
+    "temperatura": 25,
+    "umidade": 58.94,
+    "vibracao": 175.9789,
+    "ruido": 52.4645,
+    "proximidade": 56,
+    "peso": 30,
+    "latitude": -83.2682,
+    "longitude": 69.8082
+  },
+  {
+    "temperatura": 28,
+    "umidade": 62.17,
+    "vibracao": 55.8892,
+    "ruido": 75.3914,
+    "proximidade": 95,
+    "peso": 30,
+    "latitude": -83.2838,
+    "longitude": 69.802
+  },
+  {
+    "temperatura": 26,
+    "umidade": 75.38,
+    "vibracao": 15.6435,
+    "ruido": 53.5745,
+    "proximidade": 29,
+    "peso": 30,
+    "latitude": -83.2772,
+    "longitude": 69.8169
+  },
+  {
+    "temperatura": 20,
+    "umidade": 59.23,
+    "vibracao": 54.0782,
+    "ruido": 48.1469,
+    "proximidade": 15,
+    "peso": 30,
+    "latitude": -83.2793,
+    "longitude": 69.8066
+  },
+  {
+    "temperatura": 29,
+    "umidade": 71.07,
+    "vibracao": 192.2807,
+    "ruido": 34.9231,
+    "proximidade": 20,
+    "peso": 30,
+    "latitude": -83.2714,
+    "longitude": 69.8166
+  }
+]
