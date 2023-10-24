@@ -12,10 +12,11 @@ class TypePdf(TypeDataStrategy):
         tables = pd.DataFrame(tables)
         return tables
 
-    def insert_data_by_bd(self):
-        pass
+    def insert_data_by_bd(self,df):
+        list_df_to_string = []
 
-typePdf = TypePdf()
-
-va = typePdf.get_data_by_file(path_file='./files-examples/excel_registros.pdf')
-print(va.head(va))
+        for row in df.iterrows():
+            stringRow = f'{row[1][0]},{row[1][1]},{row[1][2]},{row[1][3]},{row[1][4]},{row[1][5]},{row[1][6]}'
+            list_df_to_string.append(stringRow)
+        
+        return list_df_to_string
